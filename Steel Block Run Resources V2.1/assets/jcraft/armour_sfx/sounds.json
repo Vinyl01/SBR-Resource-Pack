@@ -1,0 +1,134 @@
+{
+  "entity.step.armour_clanking": {
+    "category" : "master",
+    "subtitle" : "subtitles.armour_sfx.armour_clanking",
+    "sounds": [
+      {
+        "name": "armour_sfx:step/armour_clanking1",
+        "stream": false,
+        "volume": 0.5,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:step/armour_clanking2",
+        "stream": false,
+        "volume": 0.6,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:step/armour_clanking3",
+        "stream": false,
+        "volume": 0.6,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:step/armour_clanking4",
+        "stream": false,
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.step.mail_rustling": {
+    "category" : "master",
+    "subtitle" : "subtitles.armour_sfx.mail_rustling",
+    "sounds": [
+      {
+        "name": "armour_sfx:step/mail_rustling1",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:step/mail_rustling2",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:step/mail_rustling3",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:step/mail_rustling4",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.hit.armour_hit": {
+    "category" : "master",
+    "subtitle" : "subtitles.armour_sfx.armour_hit",
+    "sounds": [
+      {
+        "name": "armour_sfx:hit/armour_hit1",
+        "stream": false,
+        "volume": 0.5,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:hit/armour_hit2",
+        "stream": false,
+        "volume": 0.6,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:hit/armour_hit3",
+        "stream": false,
+        "volume": 0.6,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.hit.mail_hit": {
+    "category" : "master",
+    "subtitle" : "subtitles.armour_sfx.mail_hit",
+    "sounds": [
+      {
+        "name": "armour_sfx:hit/mail_hit1",
+        "stream": false,
+        "volume": 0.8,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:hit/mail_hit2",
+        "stream": false,
+        "volume": 0.7,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:hit/mail_hit3",
+        "stream": false,
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.hit.leather_hit": {
+    "category" : "master",
+    "subtitle" : "subtitles.armour_sfx.leather_hit",
+    "sounds": [
+      {
+        "name": "armour_sfx:hit/leather_hit1",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:hit/leather_hit2",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      {
+        "name": "armour_sfx:hit/leather_hit3",
+        "stream": false,
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  }
+}
